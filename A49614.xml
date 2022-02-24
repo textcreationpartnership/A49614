@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lash for the parable-makers under the allegory of apes and monkeys.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49614</idno>
+            <idno type="STC">Wing L462A</idno>
+            <idno type="STC">ESTC R36241</idno>
+            <idno type="EEBO-CITATION">15620235</idno>
+            <idno type="OCLC">ocm 15620235</idno>
+            <idno type="VID">104212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lash for the parable-makers under the allegory of apes and monkeys.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.B. and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire on coffee-house society.</note>
+                  <note>Imperfect: pages faded and torn.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coffeehouses --  England --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104212:1" rendition="simple:additions"/>
+            <head>A LASH For the Parable-Makers, Under the Allegory of <hi>APES</hi> and <hi>MONKEYS.</hi>
+            </head>
+            <p>NAY then, cry'd one Grave <hi>Pug</hi> to another, why may not the <hi>Monkeys</hi> and <hi>Apes</hi> be allow'd to prate and chatter as well as the <hi>Bulls</hi> and the <hi>Bears,</hi> and the <hi>Maſtiff-Cur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> I know no reaſon at all againſt it, quo' the t'other <hi>Pug;</hi> for of all Beaſts under the Sun, a Monkey is the neareſt Reſem<g ref="char:EOLhyphen"/>blance of Man, and the greateſt Imitator of his Actions. 'Tis very true, Brother <hi>Pug,</hi> quo' the firſt Monkey, I have heard 'em call one another <hi>Ape's-Faces,</hi> and <hi>Monkey-Faces,</hi> and twit one another with their <hi>Monkey-Tricks</hi> a thouſand times. And, by my Troth, under the Roſe be it ſpoken, I think there are ſome of 'em, and thoſe not a few, greater Imitators of <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> than we are of <hi>Them:</hi> For as Worms in their Tongues make Puppies mad; ſo Maggots i' their Pates make Men Apiſh. By the Bones of my deceaſed Mother <hi>Dame Qui<g ref="char:EOLhyphen"/>naude,</hi> there 'tis then, cry'd the ſecond <hi>Pug;</hi> for I have been a great looker of Mens Heads i' my time; and as I can ſee through a Milſtone as far as another; I have peep'd into their Sculls, and have ſeen Worms crawling i' their Brains as long as my Tail. But all this while, I am of opinion, that theſe ſort of Men are wiſer than we; for who among us can pretend to Knowledge, and Learning, and Philoſophy, nay, and Divinity too, as they do? That's for want of Education, Brother <hi>Pug,</hi> quo' the firſt Monkey. I am a Dog of a Monkey if I don't believe, that if I had been bred at the <hi>Verſity,</hi> as they call it, I could have ſtrutted it as conceitedly as ſome of theſe Parable-Mongers that I have obſerv'd about the Streets. Preferment and Education alter the Monkey as well as the Man: And there<g ref="char:EOLhyphen"/>fore when our Brother <hi>Jackanapes</hi> came to be preferr'd to be Gentleman-Uſher to the Bears, he became his Horſe as well as ſome Knights. Now then, Brother Pug, you can<g ref="char:EOLhyphen"/>not but know there are a great number of Apes and Monkeys about this Town, under ſeveral Maſters and Miſtreſſes here and there, that chatter any thing for Bread; and therefore do thee but go and ſet up a Coffee-Houſe in ſome eminent Street of the City, (I'le warrant thee Cuſtom enough) and then thou ſhalt ſee whether we have loſt the ſtrength of our Imaginations or no. By the <hi>Maſs,</hi> Brother Pug, quo' the ſecond Monkey, I like your Advice; for there's good Profit
+<pb n="2" facs="tcp:104212:2"/>
+to be got by a Coffee-Houſe amongſt our Brother Monkeys, if I can keep my Brethren from breaking my Pipes and Diſhes; and I long to be one of your Rich Monkeys: I have known ſome of your Rich Monkeys have come to be Maſters of their Companies. But have my Brethren any Money in their Pockets? Oh— never fear it, quo' the firſt Pug; did you never hear of Ape's Money? 'Tis ſuch as your <hi>Alſatia-Men</hi> pay their Creditors with.</p>
+            <p>The ſecond Pug thus inflated with his Bro<g ref="char:EOLhyphen"/>ther's Encouragements, preſently got him a Houſe, furniſh'd it with Tobacco-Pipes, Diſhes, and Wax-Candles, Coffee, Tea, Mum, Ale, <hi>&amp;c.</hi> and then ſet up his Sign with this Motto on the one ſide, <hi>Aujourdhuy Seigneur, domain Singe</hi>—on the other, <hi>Tout paſſe par ſes Tripes, comme par le Cul du Singe.</hi>
+            </p>
+            <p>And now to ſee the luck on't; no ſooner had he open'd his Doors, but in comes a <hi>Spruce Monkey,</hi> and call'd for the <hi>News-Letter;</hi> where he had not read above a dozen Lines, but he was follow'd by a <hi>Black Monkey,</hi> with a little plain Band, who clapping down juſt againſt the <hi>Spruce Monkey,</hi> This Coffee-Monkey, quo' he, muſt certainly have a great Trade, if all the Monkeys, Apes, and Baboons i'th' Town reſort to his Houſe. If they don't, quo' the <hi>Spruce Monkey,</hi> they are very diſobliging to one of their own kind. But I wonder how he will do to engage the <hi>Cercopithe<g ref="char:EOLhyphen"/>culi;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udolphus Hiſt. Ethiop. l. <hi>1.</hi> c. <hi>10.</hi>
+               </note> for tho' they are alto<g ref="char:EOLhyphen"/>gether like us in Shape, yet they are quite of another Temper, and vary from us both in Conditi<g ref="char:EOLhyphen"/>ons and Opinions. We are, as all the World knows, Wicked and Miſchievous, to the Perdition of all that comes near us; they Gentle and Harmleſs; and for the Beauty of their outward Shape, and Integrity of their inward good Qualities, highly careſs'd and taken care of by their Great Maſter and Preſerver <hi>Auguſtus.</hi> But let the <hi>Cercopithe<g ref="char:EOLhyphen"/>culi</hi> go where they pleaſe; there are cer<g ref="char:EOLhyphen"/>tainly <hi>Apes</hi> and <hi>Monkeys</hi> enough to do one <hi>Monkey</hi>'s Buſineſs. Well, Sir, quo' the <hi>Black Monkey,</hi> (<hi>viz.</hi> one of the wicked <hi>Blackbirds</hi>) What d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ye hear of News from our Chief Maſter the great <hi>French</hi> Ape? Is the Monkey <hi>Tyrconnel</hi> landed in <hi>Ireland,</hi> with Succours from the great <hi>French Baboon,</hi> as they ſay he is?</p>
+            <p>Rot theſe Baboons of News-Mongers, quo the <hi>Spruce Monkey;</hi> they ſay nothing as yet of the matter, and yet to my knowledge they have a Sallary from us Apes and Monkeys, to write the News in favour of the <hi>French Ape, Cudds Fiſh,</hi> theſe Baboons of News-mongers have not the right ſtroke at invention; I'de be bound to be chok'd with rotten Figs, if I did not make more and better every hour of the day. I'le forfeit my Tail cloſe to my But<g ref="char:EOLhyphen"/>tocks, if I don't raiſe a Hundred Thouſand Men on one ſide, and a Hundred Thouſand a t'other, and make which Party I pleaſe get the Victory, in ten Minutes and three Seconds. Here's a do indeed with Winter Quarters and Campaigns — when they're out ye can hardly get 'em in again; and when they're in ye can hardly get 'em out again; and thus they ſpend the Winter and Summer to little or no purpoſe. Ask for the <hi>Gazette,</hi> and every body cries, there's nothing in't, but Hue and Cries after loſt Horſes, Grey Hounds, and Lap-Dogs. I'de have nothing, <hi>Lippis &amp; Ton<g ref="char:EOLhyphen"/>ſoribus notum,</hi> but ſtill <hi>Freſh and New, Freſh and New,</hi> as <hi>May</hi>-Butter out of the Churn.</p>
+            <p>With that, <hi>Freſh and New!</hi> quo' a two-handed <hi>Baboon,</hi> that ſate at the upper end of the Table, wrapt up in Smoke, like <hi>Ixion</hi> in a Cloud, why, I'le undertake to tell ye all the News of this next Year before hand—In <hi>March</hi> the Great <hi>French Baboon</hi> will pour into <hi>Ireland</hi> an Army of Forty Thouſand of his choiceſt Baboons; and upon the 1ſt of <hi>April</hi> his Fleet will put to Sea, and if they find the <hi>Cercopitheculi</hi> out before, then they'l go in a<g ref="char:EOLhyphen"/>gain. In <hi>May</hi> the <hi>French</hi> Baboons will regain <hi>Ireland;</hi> and in <hi>June</hi> the <hi>French</hi> Ape ſhall land either at <hi>Lyme</hi> or <hi>Melcomb,</hi> and ſweep all before him, like an Oſtler's Broom. For to my certain knowledge, the Emperour is re<g ref="char:EOLhyphen"/>ſolved to make a Peace with the Great <hi>French Baboon,</hi> and then the Confederates may go whiſtle—Nay, if this Froſt hold long e<g ref="char:EOLhyphen"/>nough, I queſtion, my dear Brethren of the long Tail, whether <hi>Amſterdam</hi> and the <hi>Hague</hi> be ſo ſafe as they think they are — Which put the Apes and Monkeys into ſuch a fit of Exultation, that they fell a chattering as if they<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d had a Coſter-Monger's Basket before 'em.</p>
+            <p>But tho' the Houſe were not ſo well filled at the firſt opening, you may be ſure at their next meeting it was crowded like a Play-Houſe upon the Poets day. Thither came the <hi>Paſ<g ref="char:EOLhyphen"/>ſive Obedience</hi> Monkeys, and the <hi>Non-Reſiſtance</hi> Monkeys; who at firſt ſeem'd to be very friend<g ref="char:EOLhyphen"/>ly, ſhook hands together, and were glad to meet one another, till at length, by an unlucky Chance, and the Induſtry of the Black Monkeys, who favour'd the great <hi>French</hi> Ape, the reſt of the Apes and Monkeys having no more Reaſon than ſuch kind of Creatures
+<pb n="3" facs="tcp:104212:2"/>
+ſhould have, they were ſo diſtracted with <hi>Paſ<g ref="char:EOLhyphen"/>ſive Obedience</hi> and <hi>Non Reſiſtance</hi> on the one hand, and the Obligations of <hi>Annihilated Oaths</hi> on the other, that they all became Apoſtates to their own Intereſt, and gave themſelves o<g ref="char:EOLhyphen"/>ver to the Deluſions of the Black Monkeys with that violence, that when one of the Black Monkeys, who had been in great Re<g ref="char:EOLhyphen"/>verence and Eſteem among them, fell off, and aſſerted <hi>Non-Reſiſtance,</hi> and Lawfulneſs of Oaths to a <hi>Prince in Poſſeſſion,</hi> they ex<g ref="char:EOLhyphen"/>pell'd him the Coffee-Houſe, or if he came in among 'em, entertain'd him with no<g ref="char:EOLhyphen"/>thing but Mopps and Mows after their man<g ref="char:EOLhyphen"/>ner, which put the Apes and the Monkeys into ſuch Heats and Quarrels among them<g ref="char:EOLhyphen"/>ſelves, that they did nothing but throw <hi>Vindications, Replies,</hi> and <hi>Remarks</hi> at one a<g ref="char:EOLhyphen"/>nothers Heads for half a year together. One little Ape there was that ſet a couple of Weaſels upon the <hi>Black Monkey,</hi> which had done him more miſchief than they did, but that they were encountred with two <hi>Anti-Weaſels;</hi> ſo that the <hi>Cercopitheculi</hi> had enough to do to hold their ſides, and laugh at the terrible Combats of <hi>Monkeys</hi> againſt <hi>Monkeys,</hi> and <hi>Weaſels</hi> againſt <hi>Weaſels,</hi> and all for a Rice-Pudding of <hi>Paſſive Obedience</hi> and <hi>Non Reſiſtance.</hi>
+            </p>
+            <p>At another Table ſate the <hi>Rapparee Monkeys;</hi> who having receiv'd a late foyl in a Conteſt with the <hi>Cercopitheculi,</hi> one cry'd, he was meerly drawn in; another cry'd, his Paw was ſet to the Petition againſt his con<g ref="char:EOLhyphen"/>ſent; Cuds Fiſh, cry'd another, were it to do again, I'de do it: What, ſhall we loſe our Priviledges! I'de fain know what we got by our Petitioning, cry'd another? Cry'd the other, we kept Peoples Tongues from lying idle i'their Mouths; and we purſu'd our Nature, which is ſtill to be do<g ref="char:EOLhyphen"/>ing Miſchief. Upon which, up ſtept a Re<g ref="char:EOLhyphen"/>verend Baboon, and, Come, Brothers, quo' he, Fame's Fame, whether it be good or bad. <hi>Heroſtratus</hi> had never liv'd till now in our Memoirs, but for burning the Temple of <hi>Ephe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> as I learnt when I went to <hi>Paul</hi>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>School.</hi> For my part, <hi>I</hi> am well ſa<g ref="char:EOLhyphen"/>tisfied, that we have occaſion'd the ſpoyl<g ref="char:EOLhyphen"/>ing Paper enough in ſingle Sheeted Re<g ref="char:EOLhyphen"/>mark<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that will ſerve all the young Monkeys i'th Torn to make Paper Kites of, where<g ref="char:EOLhyphen"/>by our Names will be advanced to the Skies: which, if the Poets don't lie, is one of the great Rewards of Honour; at leaſt we ſhall be quarter'd i'th <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext Chronicle, and that's better than, <hi>Here lies the Body</hi> of ſuch one, in a Naſty Church-Yard.</p>
+            <p>But this Diſcourſe was interrupted by a She-Monkye of a <hi>Mercury,</hi> that cry'd about the <hi>Coffee-Houſe, the Reſtor'd Maidenhead.</hi> Preſently cry'd one of the Monkeys, Siſter, let me ſee your Reſtor'd Maidenhead; and ſmelling to the Title, ſurely, quo' he, this <hi>Monkey</hi> of a <hi>Writer</hi> muſt ride in his Coach and Eight Horſes, if he can but perform what he ſays. What would not ſome She-Monkeys about this Town give to have their Maidenheads reſtor'd, that they might loſe 'em as often. By the Tears of my ſweet Mother of happy Memory, cry'd another Monkey, 'twas more than all the Gods in <hi>Ovid</hi> durſt ever attempt, for fear of failing; they only turn'd their deflowr'd Miſtreſſes, when they bewail'd their Loſſes, into Trees and Flowers. Truly, quo' the She Monkey, if I have any skill, this Quack of a <hi>Monkey,</hi> I fear me, has undertaken more than he can perform, and as <hi>I</hi> hear, his Receipt gives offence too. Nay then, quo' another Monkey that ſate by, let our dear Brother take heed it does not fare with him, as it did with the Monkey that wou'd needs be imitating the Log-Cleaver; for that Monkey, while the Fellow was gone to dinner, cleft on ſo long, that the firſt Wedge that kept open the Wood fell out, at the ſame time that the Monkey's Foot ſlipt in; ſo that the two Pieces cloſing again, put the poor Monkey to thoſe diſmal Lamentations as brought out the Log-Cleaver, who, ſeeing the offi<g ref="char:EOLhyphen"/>cious Pug in that diſtreſs, This ye get, Sirrah, quo' he, for meddling with that y'have nothing to do withal. Ah, Maſter, Maſter, could this Monkey of a Writer but do as he ſays, I'de give him more Money than ever he had for his Copy, as poor as I am, for a Daughter of my own that has had a Miſchance.</p>
+            <p>So ſoon as the She Monkey was gone, up ſtarts the firſt Monkey; quo' he, <hi>I</hi> told ye at firſt, that Men call us Monkies, but we believe them to be as much Monkeys as our ſelves. For I would fain know, <hi>Cui Bono</hi> was this Reſtor'd Maidenhead Written? If it were for the General Benefit of the Female Republick, I know not what to ſay to it; in regard <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be preſum'd the Female Republick has need enough of ſuch a Project: But <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it were only to make ſport, and create laughter, and con<g ref="char:EOLhyphen"/>ſequently to get Money, 'tis no more <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:104212:3"/>
+one of us Monkeys could have done: Be<g ref="char:EOLhyphen"/>ſides, that Female Honour is too tender a thing to be expos'd to the 'rude Blaſts of publick Satyrs. But letting this paſs, I have got another thing here i' my Pouch, which makes me believe there is ſome ſudden Change in the World at hand. Here's a thing call'd, <hi>The Parable of the Bear-Garden.</hi>
+            </p>
+            <p>By the Maſs, quo' a <hi>Senior Pug,</hi> that liſtned to the <hi>Firſt Monkey</hi>'s Speech, I tremble to think on't. For if Man be tranſmuted thus into Bulls and Bears, and Maſtiffs, and Lap-Dogs, what will they turn us Monkeys into? There's no fear of that, quo' another Monkey; for there is no Creature under the Skie that will ſo well fit our Nature as our own ſelves. But as for Men, they had rather a great many of 'em be Beaſts as they are, than what they were created. And therefore what ſaid <hi>Gryllus</hi> in <hi>Plutarch</hi> to <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes,</hi> when he came to intreat <hi>Circe</hi> to reſtore the <hi>Grecians</hi> ſhe had chang'd into Swine, to their Original Form? <hi>Gryllus</hi> told <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes,</hi> he was a Coxcomb to come thither about ſuch a Fool's Errand; for that he and his Companions were well contented with their condition, and that for his part he had rather continue a Swine, and wallow in the Mire, than be King of <hi>Ithaca.</hi> And therefore who knows, in regard the World is in a perpetual poſture of change, whether the World is not to undergo the ſame changes again which it has done al<g ref="char:EOLhyphen"/>ready: For firſt the Men ſpoke, and then the Beaſts and Birds ſpoke, then the Men ſpoke again, and now the Beaſts and the Birds a ſecond time. But the Fiſh never ſpoke in this World; for which reaſon it is ſaid, <hi>As mute as a Fiſh</hi> (and there<g ref="char:EOLhyphen"/>fore by the way, I condemn the <hi>Parable of the Shark and the Herring-Pond</hi> to the Father of Lies) However 'tis well the limits of the Bear-Garden are ſo ſpaciouſly extended. For whereas there was before but one Jackanapes a Horſe-back, there may be now occaſion for a Hundred; and ſo there's more room for Preferment among us.</p>
+            <p>While the Monkeys were thus deſcanting upon the <hi>Parable</hi> of the <hi>Bear-Garden,</hi> in comes a bold <hi>Cercopitheculus;</hi> Gentlemen, quo' he, I have heard your diſcourſe upon the Parable of the <hi>Bear-Baiting:</hi> But what think you of the Parable of the <hi>Magpies?</hi> 'twas the invention, they ſay, of a Monkey of a Bookſeller; a Meager ſoul'd Monkey, with a Countenance like a ſows'd Hogs-Face, look<g ref="char:EOLhyphen"/>ing as if he never eat a good Meals Meat in his life, but had always liv'd upon Penny-Porringers of <hi>Scalding-Alley</hi> Mutton-Broth; who becauſe he lives at the Sign of the Raven, thinks he may take the liberty to croak over the Reputation of all Men. Up<g ref="char:EOLhyphen"/>on this, one of the more ſerious Monkyes, in a ſullen tone, Of all the Birds that fly, I love Magpies, quo' he, becauſe they are ſo roguiſh and unlucky like our ſelves (for which we are call'd Wits amongſt the Beaſts, by a modern Wit amongſt the Men) and therefore no fit Emblems to reproach the Reverence due to that Sacred Order which ſeems thereby to be reflected on. There's your miſtake, cry'd another Monkey; 'tis not for their unlucky tricks ſo much as for their White Breaſts, and White Slips upon their Wings, that the Monkey of a Bookſeller made uſe of Magpies. With that the <hi>Cerco<g ref="char:EOLhyphen"/>pitheculus</hi> putting in, Did he ſo, quo' he, then hang up the Monkey of a Bookſeller, with his Parable about his Neck, for abuſing the decent Habits of a Sacred Order. No, no, replyed one of the Monkeys, 'tis enough he is ſo well known to be one of our number; and beſides, he is ſo very covetous that he will abuſe any body for the proſpect of get<g ref="char:EOLhyphen"/>ting Sixpence;
+<q>Quando doloſi ſpes refulſerit nummi.</q>
+Such Magpies as theſe will ſpeak Parables at any time. 'Tis in faſhion now a days, becauſe People are not to be named, to make plea<g ref="char:EOLhyphen"/>ſant Satyrs upon 'em, under the Shapes and Characters of Beaſts and Birds. Thus you ſhall hear a Parrot call the Miſtreſs and the Maids Whores, and the Maſter of the Houſe Knave; and the thing perhaps may be true— Yet becauſe a Parrot only ſpeaks it, no body regards it; and therefore being a new Mode, and the Humour taking, Men muſt bear their Croſſes with Silence and Patience.</p>
+            <p>Theſe Two Parables have begot ſeve<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> others of leſſer Note, as one Street-Boxi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of two great Boobies, ſets all the little <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ys a Cuffing. But here's enough for one <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>C. B.</hi> and are to be ſold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
